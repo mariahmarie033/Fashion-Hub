@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "5k699u7rPWNiq_0cu_gFk"
+uri = "file://artifacts/clothing-brand/src/assets/images/hero.png"
+type = "image"
+title = "Hero warehouse streetwear model"
+
+[[generated]]
+id = "GEyLJ_iHOjQfDp6ExDOg2"
+uri = "file://artifacts/clothing-brand/src/assets/images/collection-1.png"
+type = "image"
+title = "Oversized black trench coat"
+
+[[generated]]
+id = "SYV9Lq1gT0P07yXte81bj"
+uri = "file://artifacts/clothing-brand/src/assets/images/collection-2.png"
+type = "image"
+title = "Wide-leg trousers boxy top"
+
+[[generated]]
+id = "HtG_VshB5fRsyosDA2j32"
+uri = "file://artifacts/clothing-brand/src/assets/images/collection-3.png"
+type = "image"
+title = "Macro hoodie texture details"
+
+[[generated]]
+id = "SjDNrA5NyUO_VQQ0aAHNp"
+uri = "file://artifacts/clothing-brand/src/assets/images/editorial-1.png"
+type = "image"
+title = "Editorial two models walking"
+
+[[generated]]
+id = "jOhGLI7LAHoo1qOuH0t7L"
+uri = "file://artifacts/clothing-brand/src/assets/images/editorial-2.png"
+type = "image"
+title = "Moody fashion portrait abstract"
+
+[[generated]]
+id = "5c2Geup8DYvYGAQcgEmsE"
+uri = "file://artifacts/clothing-brand/src/assets/images/editorial-3.png"
+type = "image"
+title = "Streetwear flat lay concrete"
